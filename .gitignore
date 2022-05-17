@@ -1,6 +1,8 @@
 node_modules
 
 /.cache
+/app/styles/app.css
 /public/build
 /.netlify
 .env
+codegen.yml
